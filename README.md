@@ -38,11 +38,6 @@ python main/test.py test_in_hospital_mortality --n_heads 64 --factor 24 --num_cl
 ```
 
 
-## Appendix
-
-Any additional information goes here
-
-
 ## Acknowledgements
 This is the implementation of the paper "Attend and Diagnose: Clinical Time Series Analysis using Attention Models"
  - [Attend and Diagnose: Clinical Time Series Analysis using Attention Models](https://arxiv.org/abs/1711.03905)
